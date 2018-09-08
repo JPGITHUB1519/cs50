@@ -1,0 +1,10 @@
+Checking
+
+    check50 cs50/2018/x/hello
+
+Style 50
+    style50 hello.c
+
+
+submit50
+    submit50 cs50/2018/x/hello

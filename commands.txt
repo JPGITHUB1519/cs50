@@ -8,3 +8,9 @@ Style 50
 
 submit50
     submit50 cs50/2018/x/hello
+
+
+Compiling with cs50.h
+    gcc -o condition0 condition0.c -lcs50 
+
+    -lm for math

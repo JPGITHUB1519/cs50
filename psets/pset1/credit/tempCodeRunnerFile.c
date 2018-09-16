@@ -1,0 +1,1 @@
+printf("\n%d", sumOfOthers);

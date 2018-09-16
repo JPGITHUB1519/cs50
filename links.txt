@@ -1,0 +1,11 @@
+Convert int to string
+    * https://stackoverflow.com/a/8257728
+    * https://overiq.com/c-programming/101/the-sprintf-function-in-c/
+
+    sprintf(stringVar, "%d", num);
+
+
+Convert string to int
+
+    Do not use atoi it does not provide usefull error checking, bad practice
+

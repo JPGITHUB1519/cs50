@@ -9,3 +9,7 @@ Convert string to int
 
     Do not use atoi it does not provide usefull error checking, bad practice
 
+    http://blockofcodes.blogspot.com/2013/07/how-to-convert-string-to-integer-in-c.html
+
+    i = atoi (num); // this is bad practice but works
+
